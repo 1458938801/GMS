@@ -1,0 +1,26 @@
+.ani-box {
+  line-height: normal;
+  font-size: 16px;
+  width: 100%;
+}
+h1{
+ text-align: left;
+}
+.content{
+  height: 200px;
+}
+.content .page{
+  text-indent: 2em;
+}
+.detail p {
+  padding-left: 20px;
+}
+.detail  span {
+  margin-left: 30px;
+}
+.major span{
+  margin-left: 30px;
+}
+.addition,.major{
+  padding-left: 40px;
+}

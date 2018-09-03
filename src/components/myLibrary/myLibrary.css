@@ -1,0 +1,45 @@
+.myLibrary librarySearch{
+    background: #c5d2cf;
+    height: 60px;
+}
+.myLibrary librarySearch h1{
+    margin: 10px;
+    padding: 10px;
+}
+.search-name input{
+    padding-left: 100px;
+    margin: 10px;
+    height: 40px;
+    width: 350px;
+    border: 1px solid #000;
+    font-size: 16px;
+}
+.search-name .btn{
+    margin: 10px;
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
+    background: lightblue;
+}
+.loading p{
+    margin: 5px;
+
+    font-size: 16px;
+}
+
+.loading button{
+    height: 40px;
+    width: 50px;
+    margin: auto;
+    background: dodgerblue;
+    font-size: 16px;
+}
+.userList li{
+    list-style: none;
+
+}
+.titleList p{
+    line-height: 50px;
+    font-size: 16px;
+    font-family: "Adobe 楷体 Std R";
+}

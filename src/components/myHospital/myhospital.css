@@ -1,0 +1,29 @@
+.hospitalIntroduction .Introduction-content{
+    text-indent: 2em;
+    font-size: 18px;
+    font-family: "Adobe 宋体 Std L";
+}
+.hospitalIntroduction img{
+    margin: auto;
+    width: 600px;
+    height:450px;
+}
+.navigation .list{
+    padding:10px;
+    margin: 10px;
+}
+.navigation .list span{
+    width: 170px;
+    height: 45px;
+    margin: 10px;
+    border: 1px solid #c5d2cf;
+    background: cornsilk;
+    border-radius:25px ;
+    font-size: 20px;
+    font-family: "Adobe 楷体 Std R";
+    text-align: center;
+    display: inline-block;
+}
+.navigation .list span:hover{
+    background: #9ebbff;
+}
